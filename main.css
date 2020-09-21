@@ -1,0 +1,34 @@
+@CHARSET "ISO-8859-1";
+body{
+	font-family:"Times New Roman", Times, serif;
+	background-color: AliceBlue;
+}
+th, td{
+	color: black;
+	font-size: 18px;
+	text-aling: left;
+	border: 1px solid black;
+}
+input[type="button"], input[type="submit"] {
+	color: black;	    
+    cursor: pointer;
+	border-radius: 2px;
+	width: 100%;
+	height: 50px;
+	font-weight: bold;
+	background-color: Aquamarine;
+}
+table{
+	border-radius: 2px;
+	width: 100%;
+	background-color: lightblue;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+title{
+	color: black;
+	font-size: 30px;
+	text-aling: left;
+	border: 1px solid black;
+	text-shadow: 3px 2px red;
+}
